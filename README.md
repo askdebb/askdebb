@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @askdebb <Christopher Wiafe Debrah />
+- 👋 Hi, I’m @askdebb <!--Christopher Wiafe Debrah --/>
 - 👀 I’m interested in developing web and mobile applications
 - 🌱 I’m currently learning frontend programming languages: HTML, CSS, JS and backend, python.
 - 💞️ I’m looking to collaborate as well as volunteer on any project that is going to enhance my skillset on bulleted point 2.
