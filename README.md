@@ -6,7 +6,7 @@
 
 
 ## 🛠 Skills
-#### I’m currently learning frontend programming languages: HTML, CSS, JS and backend, python.  🌱
+#### I’m currently learning frontend programming languages: HTML, CSS, JS and backend: node.js, python.  🌱
 #### I’m looking to collaborate as well as volunteer on any project that is going to enhance my skillset. 💞️ 
 
 <!---
