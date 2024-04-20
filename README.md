@@ -7,7 +7,7 @@
 
 ## 🛠 Skills
 #### I’m currently learning frontend programming languages: HTML, CSS, JS and backend: node.js, python.  🌱
-#### I’m looking to collaborate as well as volunteer on any project that is going to enhance my skillset. 💞️ 
+#### I'm looking to collaborate and volunteer on any project that will enhance my skillset. 💞️ 
 
 <!---
 askdebb/askdebb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
